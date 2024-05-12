@@ -1,0 +1,132 @@
+h2{
+text-align: center;
+}
+h2{color: rgb(255, 0, 0)}
+.center{
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+    font-family: cursive;
+    margin: 20px;
+}
+#ABOUT{
+    background-color: blanchedalmond;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#CITY{
+    background-color:blanchedalmond;
+    border: 2px solid black;
+}
+#SPORT{
+    background-color: blanchedalmond;
+    border: 2px solid black;
+
+    height: 600px;
+}
+#SPORT img{
+    height: 400px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#YOUTUBER{
+    background-color:blanchedalmond;
+    border: 2px solid black;
+}
+#MESSAGE{
+    background-color:blanchedalmond
+    ;
+    border: 2px solid black;
+}
+#GALLERY{
+    background-color: blanchedalmond;
+    border:2PX solid black;
+    display: inline-block;
+    margin: 30px;
+    margin:auto;
+    padding: 30px;
+}
+div.COLUMN{
+    width: 380px;
+    float: left;
+    margin: auto;
+    padding: 20px;
+    
+    
+}
+div.COLUMN img{
+    width: 100%;
+    height: 200px;
+    margin:auto;
+}
+img {
+border: 5px solid black; 
+}
+div.COLUMN1{
+width: 200px;
+margin-left: 650px;
+margin-top: 10px;
+
+}
+div.COLUMN1 img{
+    width: 300%;
+    height: 200px;
+}
+div.COLUMN{
+    margin: auto;
+}
+div.COLUMN img{
+width: 100%;
+}
+#CITY img{
+    height: 300px;
+width: 350px;
+
+}
+#ABOUT img{
+    height: 500px;
+width: 350;
+
+}
+div{
+    padding: 10px;
+    margin: 10px;
+}
+h1{
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+nav{
+    text-align: center;
+    display:inline;
+width :100%;
+
+}
+nav ul{
+    width: 100%;
+}
+nav ul li{
+    display: inline-block;
+ text-align: center;
+ padding: 10px;
+ font-size: 20px;
+  font-family: monospace;
+  text-transform: uppercase;
+}
+nav a{
+    text-decoration: none;color: black;
+}
+nav ul li a:hover{
+    color: red  ;
+}
+.container{
+    background-color: lightyellow;
+border: 2px dashed brown;
+}
+.ROW1{
+    width:100% ; 
+}
